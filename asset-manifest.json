@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/TEST_LOCOFY/static/css/main.dd5bdd91.css",
+    "main.css": "/TEST_LOCOFY/static/css/main.aef94e7a.css",
     "main.js": "/TEST_LOCOFY/static/js/main.0767b3a9.js",
     "index.html": "/TEST_LOCOFY/index.html",
-    "main.dd5bdd91.css.map": "/TEST_LOCOFY/static/css/main.dd5bdd91.css.map",
+    "main.aef94e7a.css.map": "/TEST_LOCOFY/static/css/main.aef94e7a.css.map",
     "main.0767b3a9.js.map": "/TEST_LOCOFY/static/js/main.0767b3a9.js.map"
   },
   "entrypoints": [
-    "static/css/main.dd5bdd91.css",
+    "static/css/main.aef94e7a.css",
     "static/js/main.0767b3a9.js"
   ]
 }
